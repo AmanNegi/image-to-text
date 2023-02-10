@@ -1,5 +1,5 @@
 ## Image to Text ~ [GHW 2023(FEB)](https://ghw.mlh.io)
-> [Demo Video]()
+> [Demo Video](https://youtu.be/w9qiQ4FPzEw)
 
 A simple python project which uses `tesseract` and `openCV` library to achieve a simple Image to Text Script.
 
